@@ -76,13 +76,3 @@ body{
     background-color: rgb(196, 240, 23);
     color: black;
 }
-
-@media (max-width: 768px) {
-    .main{
-        width: 330px;
-    }
-
-    body{
-        padding-top: 100px;
-    }
-}
